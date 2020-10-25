@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@types/socket.io-client": "^1.4.34",
+    "chart.js": "^2.9.4",
     "next": "9.5.5",
     "react": "17.0.1",
     "react-chartjs-2": "^2.10.0",
