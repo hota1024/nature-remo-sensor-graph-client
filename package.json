@@ -9,6 +9,7 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@types/socket.io-client": "^1.4.34",
     "next": "9.5.5",
     "react": "17.0.1",
     "react-dom": "17.0.1",
